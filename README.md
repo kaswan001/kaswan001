@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola! I'm Manish</h1>
   <div align="center" >
-    <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="height: 250px;"/>
+<!--     <img src="https://i.redd.it/6v9uxreq2had1.png" alt="pfp" style="height: 250px;"/> -->
   </div>
 
 <h3 align="center">I am a fullstack developer and a penultimate at IIT Varanasi!</h3>
