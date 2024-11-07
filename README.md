@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Microservices and Cloud architecture**
 
-- 📫 How to reach me **kaswanmanish1998@gmail.com**
+- 👯 I’m looking to collaborate on **open-source Java projects**
+
+- 📚 Always learning and eager to explore new tools
+
+- 💬 As a developer, I’m driven by a strong sense of curiosity
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
